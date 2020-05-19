@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../startbootstrap-agency-gh-pages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-agency-gh-pages"
+	}
+}
